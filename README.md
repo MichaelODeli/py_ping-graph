@@ -9,4 +9,4 @@
 - [in dev] Set your own timeout param
 ____
 ## How to use?
-You must -следовать указаниям- by program in your console. In end of the test, program will show you window with Ping Graph. You can save image of graph on your PC
+You must follow directions by program in your console. In end of the test, program will show you window with Ping Graph. You can save image of graph on your PC.
