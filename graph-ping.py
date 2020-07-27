@@ -16,7 +16,8 @@ grid_ans=str(input("Do you want to get grid on your graph? [True/False]: "))
 print("If server did not response in 2000 msec, in graph you will see '-1'.")
 
 # set graph settings
-plt.title("Ping graph")
+graph_title="Ping graph of "+target_link
+plt.title(graph_title)
 xlabel_name="Time, sec"
 ylabel_name="Server response time, msec"
 plt.xlabel(xlabel_name)
