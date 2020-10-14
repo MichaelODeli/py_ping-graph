@@ -1,4 +1,6 @@
 # Ping graph
+# Warning!
+All updates will be here: https://github.com/MichaelODeli/py_microapps
 ## Requied packages
 - matplotlib (link). To install type this command in your console - `pip install matplotlib`
 - Python Ping (link). To install type this command in your console- `pip install pythonping`
